@@ -1,5 +1,3 @@
-package simplefactory;
-
 /**
  * 抽象几何形状类
  */

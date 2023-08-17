@@ -1,4 +1,3 @@
-package factorymethod;
 
 /**
  * @description GIF图片阅读器工厂

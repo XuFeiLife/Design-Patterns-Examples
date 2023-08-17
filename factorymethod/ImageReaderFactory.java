@@ -1,4 +1,3 @@
-package factorymethod;
 
 /**
  * @description 工厂接口

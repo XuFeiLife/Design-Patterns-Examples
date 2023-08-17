@@ -1,4 +1,3 @@
-package factorymethod;
 
 /**
  * @description 图片读取接口

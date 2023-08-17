@@ -1,5 +1,3 @@
-package simplefactory;
-
 /**
  * @description 自定义异常类
  */

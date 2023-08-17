@@ -1,9 +1,8 @@
-package singleton;
 
 /**
  * 测试
  */
-public class Main {
+public class SingletonMain {
 
   public static void main(String[] args) {
     Singleton singleton1 = Singleton.getInstance();

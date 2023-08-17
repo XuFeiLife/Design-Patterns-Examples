@@ -1,5 +1,3 @@
-package simplefactory;
-
 /**
  * @description 三角形类
  */

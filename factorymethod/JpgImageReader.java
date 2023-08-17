@@ -1,4 +1,3 @@
-package factorymethod;
 /**
  * @description JPG图片阅读器
  */

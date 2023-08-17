@@ -1,5 +1,3 @@
-package singleton;
-
 /**
  *单例模式-使用匿名内部类方式
  */

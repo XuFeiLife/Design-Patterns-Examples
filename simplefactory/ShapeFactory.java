@@ -1,4 +1,4 @@
-package simplefactory;
+
 
 /**
  * @description 工厂类
